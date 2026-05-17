@@ -1,0 +1,39 @@
+{
+    "bookings": [
+        {
+            "color": "#99b538",
+            "end": "2026-03-19",
+            "firstName": "Сергей",
+            "lastName": "Ивахненко",
+            "start": "2026-03-12"
+        },
+        {
+            "color": "#494a11",
+            "end": "2026-03-11",
+            "firstName": "Максим",
+            "lastName": "Филатов",
+            "start": "2026-03-04"
+        },
+        {
+            "color": "#18e998",
+            "end": "2026-05-19",
+            "firstName": "Стас",
+            "lastName": "Загребельный",
+            "start": "2026-05-12"
+        },
+        {
+            "color": "#c4a8e6",
+            "end": "2026-04-30",
+            "firstName": "Саня",
+            "lastName": "Крайняк",
+            "start": "2026-04-09"
+        },
+        {
+            "color": "#725ee6",
+            "end": "",
+            "firstName": "sfdsd",
+            "lastName": "fsdfs",
+            "start": ""
+        }
+    ]
+}
