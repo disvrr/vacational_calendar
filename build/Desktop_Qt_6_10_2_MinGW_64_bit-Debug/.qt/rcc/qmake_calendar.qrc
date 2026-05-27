@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/calendar">
-    <file alias="qmldir">D:/Diana/nure/CPPro/course work/calendar/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/calendar/qmldir</file>
-  </qresource>
-</RCC>
-
