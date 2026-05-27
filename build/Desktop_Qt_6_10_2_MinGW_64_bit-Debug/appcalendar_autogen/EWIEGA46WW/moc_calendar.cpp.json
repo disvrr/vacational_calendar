@@ -1,0 +1,118 @@
+{
+    "classes": [
+        {
+            "className": "Calendar",
+            "lineNumber": 9,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "date",
+                            "type": "QDate"
+                        }
+                    ],
+                    "index": 3,
+                    "isConst": true,
+                    "lineNumber": 22,
+                    "name": "isInRange",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "date",
+                            "type": "QDate"
+                        }
+                    ],
+                    "index": 4,
+                    "lineNumber": 24,
+                    "name": "handleClick",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 13,
+                    "name": "startDate",
+                    "notify": "rangeChanged",
+                    "read": "getStartDate",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QDate",
+                    "user": false,
+                    "write": "setStartDate"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 14,
+                    "name": "endDate",
+                    "notify": "rangeChanged",
+                    "read": "getEndDate",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QDate",
+                    "user": false,
+                    "write": "setEndDate"
+                }
+            ],
+            "qualifiedClassName": "Calendar",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 31,
+                    "name": "rangeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "date",
+                            "type": "QDate"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 27,
+                    "name": "setStartDate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "date",
+                            "type": "QDate"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 28,
+                    "name": "setEndDate",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "calendar.h",
+    "outputRevision": 69
+}

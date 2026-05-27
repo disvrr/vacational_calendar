@@ -1,0 +1,11 @@
+--resource
+D:/Diana/nure/CPPro/course work/calendar/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/qmake_calendar.qrc
+--resource
+D:/Diana/nure/CPPro/course work/calendar/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appcalendar_raw_qml_0.qrc
+/qt/qml/calendar/Main.qml
+/qt/qml/calendar/MenuPage.qml
+/qt/qml/calendar/Calendar.qml
+/qt/qml/calendar/ToolBarHeader.qml
+/qt/qml/calendar/Report.qml
+/qt/qml/calendar/About.qml
+/qt/qml/calendar/CalendarDay.qml

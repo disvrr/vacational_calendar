@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/calendar/">
+    <file alias="Main.qml">D:/Diana/nure/CPPro/course work/calendar/Main.qml</file>
+    <file alias="MenuPage.qml">D:/Diana/nure/CPPro/course work/calendar/MenuPage.qml</file>
+    <file alias="Calendar.qml">D:/Diana/nure/CPPro/course work/calendar/Calendar.qml</file>
+    <file alias="ToolBarHeader.qml">D:/Diana/nure/CPPro/course work/calendar/ToolBarHeader.qml</file>
+    <file alias="Report.qml">D:/Diana/nure/CPPro/course work/calendar/Report.qml</file>
+    <file alias="About.qml">D:/Diana/nure/CPPro/course work/calendar/About.qml</file>
+    <file alias="CalendarDay.qml">D:/Diana/nure/CPPro/course work/calendar/CalendarDay.qml</file>
+  </qresource>
+</RCC>
+
